@@ -53,6 +53,13 @@
   <img src="https://github.com/user-attachments/assets/e830b2ff-d869-4ece-ad8f-c6215069e15b" alt="회원가입" width="400px"/>
 </p>
 
+- **관리자페이지** : 팀 생성, 경기 생성, 방송 송출 기능
+
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/cae45aab-402c-4592-bf69-62c8333004aa" alt="팀 생성" width="400px"/>
+  <img src="https://github.com/user-attachments/assets/1654fcd9-97c4-48e9-bdaa-e4dbd5540cc2" alt="경기 생성" width="400px"/>
+
+
 <br/>
 
 ## 🔨 프로젝트 구조
