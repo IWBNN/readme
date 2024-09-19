@@ -25,32 +25,32 @@
 - **mainPage** : 과거-현재-미래에 진행할 대진표 종목별, 일별로 제공
 
 <p align="middle">
-  <img src="https://github.com/user-attachments/assets/f914ebb1-08d4-46a9-8552-f8b801945baf" alt="메인페이지" width="600px"/>
+  <img src="https://github.com/user-attachments/assets/f914ebb1-08d4-46a9-8552-f8b801945baf" alt="메인페이지" width="400px"/>
 </p>
 
 - **bracketPage** : 리그, 토너먼트 형식의 대진표 제공
 
 <p align="middle">
-  <img src="https://github.com/user-attachments/assets/91753022-7b71-413a-9936-fd6e957a1c2b" alt="대진표페이지" width="600px"/>
+  <img src="https://github.com/user-attachments/assets/91753022-7b71-413a-9936-fd6e957a1c2b" alt="대진표페이지" width="400px"/>
 </p>
 
 - **myPage** : 내 정보 조회 및 닉네임, 비밀번호, 로그아웃 기능 제공
 
 <p align="middle">
-  <img src="https://github.com/user-attachments/assets/a7207648-2c4d-47f1-86c3-2a2fbf40c0f6" alt="마이페이지" width="600px"/>
+  <img src="https://github.com/user-attachments/assets/a7207648-2c4d-47f1-86c3-2a2fbf40c0f6" alt="마이페이지" width="400px"/>
 </p>
 
 - **LiveStreamingPage** : 실시간 비디오 스트리밍 및 채팅 기능 제공 
 
 <p align="middle">
-  <img src="https://github.com/user-attachments/assets/1bf27684-507c-482b-8327-788bcc985b12" alt="라이브스트리밍페이지" width="600px"/>
+  <img src="https://github.com/user-attachments/assets/1bf27684-507c-482b-8327-788bcc985b12" alt="라이브스트리밍페이지" width="400px"/>
 </p>
 
 - **로그인/회원가입** : MFA를 활용한 이메일 인증 방식으로 회원가입, 로그인 관리
 
 <p align="middle">
-  <img src="https://github.com/user-attachments/assets/b215ff6f-2180-4b79-ab13-eaada62056b4" alt="로그인" width="600px"/>
-  <img src="https://github.com/user-attachments/assets/e830b2ff-d869-4ece-ad8f-c6215069e15b" alt="회원가입" width="600px"/>
+  <img src="https://github.com/user-attachments/assets/b215ff6f-2180-4b79-ab13-eaada62056b4" alt="로그인" width="400px"/>
+  <img src="https://github.com/user-attachments/assets/e830b2ff-d869-4ece-ad8f-c6215069e15b" alt="회원가입" width="400px"/>
 </p>
 
 <br/>
