@@ -45,26 +45,29 @@
 - **로그인/회원가입** : MFA를 활용한 이메일 인증 방식으로 회원가입, 로그인 관리
 
 - 로그인
-- 
+  
 ![로그인](https://github.com/user-attachments/assets/b215ff6f-2180-4b79-ab13-eaada62056b4)
 
 - 회원가입
-- 
+
 ![회원가입](https://github.com/user-attachments/assets/e830b2ff-d869-4ece-ad8f-c6215069e15b)
 
 
 ## 🔨 프로젝트 구조
 - frontend
-- 
+  
 ![frontend](https://github.com/user-attachments/assets/3eb7fd09-39c6-4c72-8cc1-56a36020f852)
 
 - backend - 서버
+  
 ![backend-서버](https://github.com/user-attachments/assets/81174db2-63bc-4198-8d5f-f97e69762db5)
 
 - backend - db
+
 ![backend-db](https://github.com/user-attachments/assets/6f784e1d-2705-41f6-be5b-79871c4b2d5b)
 
 - 배포 흐름도
+  
 ![전체 흐름도](https://github.com/user-attachments/assets/a538f9ee-7732-442d-8599-212e1c43cd76)
 
 
