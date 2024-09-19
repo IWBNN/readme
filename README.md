@@ -28,28 +28,34 @@
 ## ⭐ 주요 기능
 - **mainPage** : 과거-현재-미래에 진행할 대진표 종목별, 일별로 제공
 
-![메인페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.32.09.png?alt=media&token=b2d5b84a-eaf0-4f57-9e82-0dda2ee080cb)
+![메인페이지](https://github.com/user-attachments/assets/f914ebb1-08d4-46a9-8552-f8b801945baf)
 
 - **bracketPage** : 리그, 토너먼트 형식의 대진표 제공
 
-![대진표페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/Image%2Fselect.png?alt=media&token=05794943-9657-40bf-ad36-d3bdbb895d84)
+![대진표페이지](https://github.com/user-attachments/assets/91753022-7b71-413a-9936-fd6e957a1c2b)
 
 - **myPage** : 내 정보 조회 및 닉네임, 비밀번호, 로그아웃 기능 제공
 
-![마이페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.52.47.png?alt=media&token=7502d5f5-a3c3-4193-a873-620747b7b070)
+![마이페이지](https://github.com/user-attachments/assets/a7207648-2c4d-47f1-86c3-2a2fbf40c0f6)
 
 - **LiveStreamingPage** : 실시간 비디오 스트리밍 및 채팅 기능 제공 
 
-![라이브스트리밍페이지](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.53.28.png?alt=media&token=83162f3e-0802-4c65-863e-e907ca6979b3)
+![라이브스트리밍페이지](https://github.com/user-attachments/assets/1bf27684-507c-482b-8327-788bcc985b12)
 
 - **로그인/회원가입** : MFA를 활용한 이메일 인증 방식으로 회원가입, 로그인 관리
 
-![로그인](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.38.38.png?alt=media&token=5e34c62b-f65b-469f-84fc-dca665bd96bc)
-![회원가입](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.38.38.png?alt=media&token=5e34c62b-f65b-469f-84fc-dca665bd96bc)
+![로그인](https://github.com/user-attachments/assets/b215ff6f-2180-4b79-ab13-eaada62056b4)
+![회원가입](https://github.com/user-attachments/assets/e830b2ff-d869-4ece-ad8f-c6215069e15b)
 
 
 ## 🔨 프로젝트 구조
-![아키텍처](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.19.37.png?alt=media&token=79093ff3-9c0a-40fd-8721-f0fa54625694)
+![frontend](https://github.com/user-attachments/assets/3eb7fd09-39c6-4c72-8cc1-56a36020f852)
+![backend-서버](https://github.com/user-attachments/assets/81174db2-63bc-4198-8d5f-f97e69762db5)
+![backend-db](https://github.com/user-attachments/assets/6f784e1d-2705-41f6-be5b-79871c4b2d5b)
+![전체 흐름도](https://github.com/user-attachments/assets/a538f9ee-7732-442d-8599-212e1c43cd76)
+![스크린샷 2024-08-28 100106](https://github.com/user-attachments/assets/03189143-5555-4a0a-b8ed-b82f2c0b4edc)
+
+
 
 <br/>
 
