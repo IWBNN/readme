@@ -43,9 +43,7 @@
 - **LiveStreamingPage** : 실시간 비디오 스트리밍 및 채팅 기능 제공 
 
 <p align="middle">
-  <img src="https://github.com/user-attachments/assets/ac736ff4-ea46-4af7-98c3-0be1f4159c1b" alt="라이브스트리밍페이지" width="400px"/>
-  
-
+  <img src="https://github.com/user-attachments/assets/907c8ed5-0814-4c5f-8912-e964eeff80d5" alt="라이브스트리밍페이지" width="400px"/>
 </p>
 
 - **로그인/회원가입** : MFA를 활용한 이메일 인증 방식으로 회원가입, 로그인 관리
