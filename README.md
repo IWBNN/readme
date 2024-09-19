@@ -58,7 +58,13 @@
 <p align="middle">
   <img src="https://github.com/user-attachments/assets/cae45aab-402c-4592-bf69-62c8333004aa" alt="팀 생성" width="400px"/>
   <img src="https://github.com/user-attachments/assets/1654fcd9-97c4-48e9-bdaa-e4dbd5540cc2" alt="경기 생성" width="400px"/>
+</p>
 
+- 방송 송출 페이지
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/ff1d86c3-3e47-4013-952f-e6563f0ebefd" alt="방송 송출" width="400px"/>
+</p>
+  
 
 <br/>
 
